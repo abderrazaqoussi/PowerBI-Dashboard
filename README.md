@@ -31,5 +31,4 @@ And the final trick needed to create a dashboard like us is to create a dynamica
 </br>
 - Tutorial : [Video](https://www.youtube.com/watch?v=n-OWNaCUU0o&ab_channel=GuyinaCube)
 
-# PowerBI-Dashboard git init git commit -m first commit git branch -M main git remote add origin https://github.com/AbderrazakO/PowerBI-Dashboard.git git push -u origin main
-# PowerBI-Dashboard
+
